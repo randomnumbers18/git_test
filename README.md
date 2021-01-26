@@ -1,0 +1,1 @@
+This is Kara's first git project!
